@@ -1,0 +1,24 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+03-06-2026	12:30:04.823	 INFO	 30588	 12200	DllMain	"DLL_PROCESS_ATTACH Thu Jan  2 23:38:14 2025 11.3.2440.11"
+03-06-2026	12:30:04.853	 INFO	 30588	 12200	DllMain	"PROCESS ATTACHED"
+03-06-2026	12:30:04.855	 INFO	 30588	 31756	LateInitialization	"Intialization..."
+03-06-2026	12:30:04.856	 INFO	 30588	 31756	LoadDisplayDevicesName	"DisplayDevices : "
+03-06-2026	12:30:04.858	 INFO	 30588	 31756	LoadDisplayDevicesName	"\\.\DISPLAY1"
+03-06-2026	12:30:04.859	 INFO	 30588	 31756	LoadDisplayDevicesName	"\\.\DISPLAY2"
+03-06-2026	12:30:04.861	 INFO	 30588	 31756	LoadDisplayDevicesName	"\\.\DISPLAY3"
+03-06-2026	12:30:04.862	 INFO	 30588	 31756	LoadDisplayDevicesName	"\\.\DISPLAY4"
+03-06-2026	12:30:04.873	ERROR	 30588	 31756	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+03-06-2026	12:30:04.874	 INFO	 30588	 31756	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 8279328
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+03-06-2026	12:30:04.876	 INFO	 30588	 31756	LateInitialization	"Intialization finished"
